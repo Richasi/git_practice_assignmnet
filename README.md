@@ -1,1 +1,1 @@
-# [git_practice_assignmnet](https://gemgarden.netlify.app/)https://gemgarden.netlify.app/
+# https://github.com/Richasi/git_practice_assignmnet/edit/main/README.md
