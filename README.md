@@ -1,1 +1,1 @@
-# Deployed link:https://gemgarden.netlify.app/
+# git_practice_assignmnet
